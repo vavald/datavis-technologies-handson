@@ -1,6 +1,6 @@
 <script>
     function circum(r){
-        return pi*r*2;
+        return 3.14*r*2;
     }
 </script>
 
